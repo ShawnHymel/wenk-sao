@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name XZMDKCBDDG45S-9)(type KiCad)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/sunled-XZMDKCBDDG45S-9/XZMDKCBDDG45S-9.pretty)(options "")(descr ""))
+  (lib (name badgelife_sao_v169bis)(type KiCad)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/Badgelife_SAO_v169bis_20190321-0053/badgelife_sao_v169bis.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/custom/footprints.pretty)(options "")(descr ""))
+)

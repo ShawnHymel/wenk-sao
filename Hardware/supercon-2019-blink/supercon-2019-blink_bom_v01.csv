@@ -1,0 +1,25 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digi-Key_PN
+1,Unpolarized capacitor,C,C2,0.1uF,,1,~,1276-1000-1-ND
+2,Unpolarized capacitor,C,C1,10uF,,1,~,1276-1119-1-ND
+3,"RGB LED, anode/red/green/blue",LED_RABG,D1 D2,LED_RABG,,2,~,1497-1257-1-ND
+4,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J1,Conn_01x06,,1,~,952-3235-ND
+5,Resistor,R,R5 R6 R8 R9,100,,4,~,311-100HRCT-ND
+6,Resistor,R,R1,10k,,1,~,311-10.0KHRCT-ND
+7,Resistor,R,R4 R7,150,,2,~,311-150HRCT-ND
+8,Resistor,R,R2 R3,4.7k,,2,~,311-4.70KHRCT-ND
+9,"20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, SOIC-14",ATtiny84A-SSU,U1,ATtiny84A-SSU,SOIC-14_3.9x8.7mm_P1.27mm,1,http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf,ATTINY84A-SSURCT-ND
+10,,Badgelife_sao_connector_v169bis,X1,Badgelife_sao_connector_v169bis,,1,,732-5394-ND
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
