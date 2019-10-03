@@ -193,7 +193,7 @@ U 1 1 5D929FCA
 P 5900 5550
 F 0 "X1" V 5435 5550 50  0000 C CNN
 F 1 "Badgelife_sao_connector_v169bis" V 5526 5550 50  0000 C CNN
-F 2 "badgelife_sao_v169bis:Badgelife-SAOv169-SAO-2x3" H 5900 5750 50  0001 C CNN
+F 2 "footprints:Badgelife-SAOv169-SAO-2x3_nopin1" H 5900 5750 50  0001 C CNN
 F 3 "" H 5900 5750 50  0001 C CNN
 F 4 "732-5394-ND" V 5900 5550 50  0001 C CNN "Digi-Key_PN"
 	1    5900 5550

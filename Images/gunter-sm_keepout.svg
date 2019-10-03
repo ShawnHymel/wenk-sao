@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.83647972in"
+   height="0.30932069in"
+   viewBox="0 0 21.246585 7.8567457"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="gunter-sm_keepout.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Images\gunter-outer.png"
+   inkscape:export-xdpi="999.99976"
+   inkscape:export-ydpi="999.99976">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="56.454477"
+     inkscape:cy="39.43416"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2094"
+     inkscape:window-height="1623"
+     inkscape:window-x="2003"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false"
+     units="in" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.742295,-224.23003)">
+    <g
+       id="g3960"
+       transform="translate(50.888118,100.27953)">
+      <path
+         style="fill:#f6f500;stroke-width:0.05869273"
+         d="m -20.303946,131.75174 c -1.75782,-0.0457 -2.943188,-0.10352 -5.370386,-0.26188 -1.437966,-0.0938 -1.66181,-0.12207 -1.57852,-0.19919 0.08255,-0.0764 2.670296,-0.23544 4.924006,-0.30256 2.08511,-0.0621 4.405512,-0.025 4.465089,0.0714 0.04514,0.073 -0.307802,0.6771 -0.421006,0.72054 -0.05056,0.0194 -0.135984,0.0311 -0.189836,0.026 -0.05385,-0.005 -0.877058,-0.0295 -1.829347,-0.0543 z m -9.441848,-0.64537 c -0.434286,-0.0563 -0.485734,-0.0858 -0.294058,-0.16877 0.230183,-0.0996 10.963536,-2.76122 11.135026,-2.76122 0.18586,0 0.638248,0.35328 0.927019,0.72393 0.26402,0.33888 0.373726,0.681 0.373726,1.16548 0,0.6888 0.126741,0.64385 -1.690382,0.59947 -2.483743,-0.0607 -6.868841,0.1373 -9.226466,0.41654 -0.403513,0.0478 -0.760071,0.0838 -0.792352,0.08 -0.03228,-0.004 -0.226912,-0.0287 -0.432513,-0.0554 z m 17.10125,-1.30738 c -0.797416,-0.26322 -1.425017,-0.80925 -1.776719,-1.54581 -0.435658,-0.77636 -0.319358,-1.80569 0,-2.50131 0.294682,-0.61714 0.759964,-1.08242 1.37711,-1.37711 0.785725,-0.4198 1.886726,-0.28417 2.501306,0 0.6171456,0.29469 1.0824276,0.75997 1.3771096,1.37711 0.419884,0.78563 0.2843785,1.88628 0,2.50131 -0.294697,0.61718 -0.759972,1.08244 -1.3771096,1.37708 -0.798737,0.32234 -1.210076,0.35319 -2.101697,0.16868 z m -13.827564,-0.32493 c -0.545803,-0.21354 -1.10846,-0.70642 -1.418629,-1.24269 -0.234627,-0.40566 -0.336729,-0.84055 -0.336729,-1.43427 0,-0.84329 0.212094,-1.40254 0.750004,-1.97761 0.563852,-0.6028 1.206074,-0.86899 2.096594,-0.86899 0.89052,0 1.532742,0.26619 2.096594,0.86899 0.539156,0.57641 0.750004,1.13389 0.750004,1.98304 0,0.62705 -0.125375,1.10505 -0.403536,1.53853 -0.329501,0.51348 -0.362054,0.52992 -1.782576,0.90005 -0.718358,0.18717 -1.345724,0.33988 -1.394145,0.33936 -0.04842,-5.3e-4 -0.209333,-0.0484 -0.357581,-0.10641 z"
+         id="path3966"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccscccccccscsccccccccccccccccsscscscccc" />
+    </g>
+  </g>
+</svg>

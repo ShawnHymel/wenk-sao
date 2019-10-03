@@ -1,4 +1,4 @@
-15674729783733284
+15682580124472350
 badgelife_sao_v169bis
 Badgelife-SAOv169-BADGE-2x3
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
@@ -43952,6 +43952,41 @@ EMI Filter
 0
 19
 4
+footprints
+Badgelife-SAOv169-SAO-2x3_nopin1
+Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x03 2.54mm double row
+0
+6
+6
+footprints
+gunter-exposed_copper
+
+
+0
+0
+0
+footprints
+gunter-outer
+
+
+0
+0
+0
+footprints
+gunter-silk
+
+
+0
+0
+0
+footprints
+gunter-sm_keepout
+
+
+0
+0
+0
 footprints
 SolderJumper-3_P1.3mm_Bridged123_RoundedPad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip

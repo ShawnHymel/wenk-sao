@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Hardware\supercon-2019-blink\supercon-2019-blink.sch)
-    (date "9/30/2019 10:52:15 PM")
+    (date "10/02/19 19:44:59")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -53,7 +53,7 @@
       (tstamp 5D92C6E0))
     (comp (ref X1)
       (value Badgelife_sao_connector_v169bis)
-      (footprint badgelife_sao_v169bis:Badgelife-SAOv169-SAO-2x3)
+      (footprint footprints:Badgelife-SAOv169-SAO-2x3_nopin1)
       (fields
         (field (name Digi-Key_PN) 732-5394-ND))
       (libsource (lib badgelife_shitty_addon_v169bis) (part Badgelife_sao_connector_v169bis) (description ""))
@@ -284,7 +284,7 @@
     (library (logical MCU_Microchip_ATtiny)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/MCU_Microchip_ATtiny.lib"))
     (library (logical XZMDKCBDDG45S-9)
-      (uri C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Hardware\libraries\sunled-XZMDKCBDDG45S-9\XZMDKCBDDG45S-9.lib))
+      (uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/sunled-XZMDKCBDDG45S-9/XZMDKCBDDG45S-9.lib))
     (library (logical badgelife_shitty_addon_v169bis)
       (uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/Badgelife_SAO_v169bis_20190321-0053/badgelife_shitty_addon_v169bis.lib)))
   (nets
