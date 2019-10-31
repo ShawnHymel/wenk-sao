@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (title "Supercon 2019 Blink")
+    (title "Wenk SAO")
     (date 2019-09-30)
     (rev v01)
     (comment 2 creativecommons.org/licenses/by/4.0)
@@ -43,7 +43,7 @@
   )
 
   (setup
-    (last_trace_width 0.508)
+    (last_trace_width 0.254)
     (user_trace_width 0.508)
     (trace_clearance 0.254)
     (zone_clearance 0.508)

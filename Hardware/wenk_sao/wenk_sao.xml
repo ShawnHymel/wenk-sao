@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Hardware\supercon-2019-blink\supercon-2019-blink.sch</source>
-    <date>9/30/2019 6:24:42 PM</date>
+    <source>C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Hardware\wenk_sao\wenk_sao.sch</source>
+    <date>10/25/2019 10:13:00 AM</date>
     <tool>Eeschema (5.1.0)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>Supercon 2019 Blink SAO</title>
+        <title>Wenk SAO</title>
         <company/>
         <rev>v01</rev>
         <date>2019-09-30</date>
-        <source>supercon-2019-blink.sch</source>
+        <source>wenk_sao.sch</source>
         <comment number="1" value=""/>
         <comment number="2" value="creativecommons.org/licenses/by/4.0"/>
         <comment number="3" value="License: CC BY 4.0"/>
@@ -21,6 +21,7 @@
   <components>
     <comp ref="R1">
       <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-10.0KHRCT-ND</field>
@@ -31,6 +32,7 @@
     </comp>
     <comp ref="J1">
       <value>Conn_01x06</value>
+      <footprint>Connector_Harwin:Harwin_M20-89006xx_1x06_P2.54mm_Horizontal</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">952-3235-ND</field>
@@ -41,6 +43,7 @@
     </comp>
     <comp ref="C2">
       <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">1276-1000-1-ND</field>
@@ -51,6 +54,7 @@
     </comp>
     <comp ref="C1">
       <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">1276-1119-1-ND</field>
@@ -61,6 +65,7 @@
     </comp>
     <comp ref="X1">
       <value>Badgelife_sao_connector_v169bis</value>
+      <footprint>footprints:Badgelife-SAOv169-SAO-2x3_nopin1</footprint>
       <fields>
         <field name="Digi-Key_PN">732-5394-ND</field>
       </fields>
@@ -70,6 +75,7 @@
     </comp>
     <comp ref="R3">
       <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-4.70KHRCT-ND</field>
@@ -80,6 +86,7 @@
     </comp>
     <comp ref="JP1">
       <value>SolderJumper_3_Bridged123</value>
+      <footprint>footprints:SolderJumper-3_P1.3mm_Bridged123_RoundedPad1.0x1.5mm</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Jumper" part="SolderJumper_3_Bridged123" description="Solder Jumper, 3-pole, pins 1+2+3 closed/bridged"/>
       <sheetpath names="/" tstamps="/"/>
@@ -87,6 +94,7 @@
     </comp>
     <comp ref="R2">
       <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-4.70KHRCT-ND</field>
@@ -108,6 +116,7 @@
     </comp>
     <comp ref="D1">
       <value>LED_RABG</value>
+      <footprint>XZMDKCBDDG45S-9:XZMDKCBDDG45S-9</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">1497-1257-1-ND</field>
@@ -118,6 +127,7 @@
     </comp>
     <comp ref="R4">
       <value>150</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-150HRCT-ND</field>
@@ -128,6 +138,7 @@
     </comp>
     <comp ref="R5">
       <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-100HRCT-ND</field>
@@ -138,6 +149,7 @@
     </comp>
     <comp ref="R6">
       <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-100HRCT-ND</field>
@@ -148,6 +160,7 @@
     </comp>
     <comp ref="D2">
       <value>LED_RABG</value>
+      <footprint>XZMDKCBDDG45S-9:XZMDKCBDDG45S-9</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">1497-1257-1-ND</field>
@@ -158,6 +171,7 @@
     </comp>
     <comp ref="R7">
       <value>150</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-150HRCT-ND</field>
@@ -168,6 +182,7 @@
     </comp>
     <comp ref="R8">
       <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-100HRCT-ND</field>
@@ -178,6 +193,7 @@
     </comp>
     <comp ref="R9">
       <value>100</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>~</datasheet>
       <fields>
         <field name="Digi-Key_PN">311-100HRCT-ND</field>
@@ -339,7 +355,7 @@
       <uri>C:\Program Files\KiCad\share\kicad\library/MCU_Microchip_ATtiny.lib</uri>
     </library>
     <library logical="XZMDKCBDDG45S-9">
-      <uri>C:\Users\sgmustadio\Documents\GitHub\avr-blink-badge\Hardware\libraries\sunled-XZMDKCBDDG45S-9\XZMDKCBDDG45S-9.lib</uri>
+      <uri>C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/sunled-XZMDKCBDDG45S-9/XZMDKCBDDG45S-9.lib</uri>
     </library>
     <library logical="badgelife_shitty_addon_v169bis">
       <uri>C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/Badgelife_SAO_v169bis_20190321-0053/badgelife_shitty_addon_v169bis.lib</uri>

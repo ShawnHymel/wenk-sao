@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:supercon-2019-blink-cache
+LIBS:wenk_sao-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Supercon 2019 Blink SAO"
+Title "Wenk SAO"
 Date "2019-09-30"
 Rev "v01"
 Comp ""
