@@ -2,4 +2,5 @@
   (lib (name 2019-09-30_17-18-11)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/attiny85v/2019-09-30_17-18-11.lib)(options "")(descr ""))
   (lib (name badgelife_shitty_addon_v169bis)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/Badgelife_SAO_v169bis_20190321-0053/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
   (lib (name XZMDKCBDDG45S-9)(type Legacy)(uri C:/Users/sgmustadio/Documents/GitHub/avr-blink-badge/Hardware/libraries/sunled-XZMDKCBDDG45S-9/XZMDKCBDDG45S-9.lib)(options "")(descr ""))
+  (lib (name wenk_sao-rescue)(type Legacy)(uri ${KIPRJMOD}/wenk_sao-rescue.lib)(options "")(descr ""))
 )

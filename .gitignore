@@ -92,6 +92,7 @@ pip-log.txt
 # AVR Development
 *.eep
 *.elf
+*.hex
 *.lst
 *.lss
 *.sym
