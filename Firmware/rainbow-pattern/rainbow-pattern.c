@@ -29,7 +29,7 @@ void leftWheel(uint8_t wheel_pos);
 void rightWheel(uint8_t wheel_pos);
 
 // Rainbow offset
-const uint8_t left_offset = 64;
+const uint8_t left_offset = 40;
 const uint8_t right_offset = 0;
 
 // Timer values
