@@ -36,16 +36,22 @@ file = path_file[1]
 # Compile
 cmd = "avr-gcc -Os -mmcu=attiny84 -o " + path + sep + elf + " " + full_path
 print(cmd)
-os.system(cmd)
+ret = os.system(cmd)
+if ret != 0:
+    exit()
 
 # Create hex file
 cmd = "avr-objcopy -j .text -j .data -O ihex " + path + sep + elf + " " + \
         path + sep + hex
 print(cmd)
-os.system(cmd)
+ret = os.system(cmd)
+if ret != 0:
+    exit()
 
 # Upload to ATtiny84
 cmd = "avrdude -c usbtiny -p t84 -U flash:w:" + path + sep + hex
 print(cmd)
-os.system(cmd)
+ret = os.system(cmd)
+if ret != 0:
+    exit()
 
