@@ -16,7 +16,7 @@ int main(void) {
     PORTB |= 0b00000111;
     
     // Flash through colors a few times
-    for ( uint8_t i = 0; i < 5; i++ ) {
+    for ( uint8_t i = 0; i < 3; i++ ) {
         
         // Turn off blue
         PORTA |= (1 << 3);
