@@ -20,6 +20,8 @@ License
 -------
 The hardware is released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+The workshop slides and worksheet are released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 Demo code in the Firmware directory is [Beerware](https://en.wikipedia.org/wiki/Beerware).
 
 Distributed as-is; no warranty is given.
