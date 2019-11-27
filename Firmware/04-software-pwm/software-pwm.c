@@ -72,35 +72,38 @@ ISR(TIM0_COMPA_vect) {
     // Increment counter (just let roll over)
     ticks++;
     
+    // Copy to local variable to save RAM lookup cycles
+    uint8_t t = ticks;
+    
     // Set left LED based on duty cycle
-    if ( ticks < left_r ) {
+    if ( t < left_r ) {
         PORTB &= ~(1 << p_lr); // LED on
     } else {
         PORTB |= (1 << p_lr);  // LED off
     }
-    if ( ticks < left_g ) {
+    if ( t < left_g ) {
         PORTB &= ~(1 << p_lg); // LED on
     } else {
         PORTB |= (1 << p_lg);  // LED off
     }
-    if ( ticks < left_b ) {
+    if ( t < left_b ) {
         PORTB &= ~(1 << p_lb); // LED on
     } else {
         PORTB |= (1 << p_lb);  // LED off
     }
     
     // Set right LED based on duty cycle
-    if ( ticks < right_r ) {
+    if ( t < right_r ) {
         PORTA &= ~(1 << p_rr); // LED on
     } else {
         PORTA |= (1 << p_rr);  // LED off
     }
-    if ( ticks < right_g ) {
+    if ( t < right_g ) {
         PORTA &= ~(1 << p_rg); // LED on
     } else {
         PORTA |= (1 << p_rg);  // LED off
     }
-    if ( ticks < right_b ) {
+    if ( t < right_b ) {
         PORTA &= ~(1 << p_rb); // LED on
     } else {
         PORTA |= (1 << p_rb);  // LED off
